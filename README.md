@@ -1,1 +1,1 @@
-# Odoo Zero to Hero
+# Odoo Zero to Hero Guide
